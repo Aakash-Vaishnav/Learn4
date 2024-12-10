@@ -1,0 +1,12 @@
+INSERT INTO users (full_name,email,phone) VALUES
+('サシレカ','sasireka@example.com','1234567892'),
+('パヴァン・ジョシ','pavanjoshi@example.com','1234567893'),
+('ルシケシ・ジョンデール','rushikeshj@example.com','1234567894'),
+('リディ','ridhhdhi@example.com','1234567895'),
+('スウェタ・グッバラ','swethagubbala@example.com','1234567896'),
+('サニカ・バンガレ','sanikabangale@example.com','1234567897'),
+('プラバンジャン・インガレ','iprabajan@example.com','1234567898'),
+('ルパム・ナグダイブ','rupamnagdive@example.com','1234567899'),
+('ロヒト・ブチクル','rohitbuchkul@example.com','1234567900'),
+('ソムナート・シュリサット','somnathshrisath@example.com','1234567901'),
+('スヤーシュ・チャンドラバ','suyashchandrabha@example.com','1234567902');
